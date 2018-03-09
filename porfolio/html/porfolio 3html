@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="../css/css 3.css">
+<header>
+	<main>
+		<div id="main-container">
+			
+		</div>
+		<div id="menu">
+			<li><a href="https://es.wikipedia.org/wiki/Software_libre">Software Libre</a></li>
+			<li><a href="https://es.wikipedia.org/wiki/Hacktivismo">Hacktivismo</a></li>
+			<li><a href="https://es.wikipedia.org/wiki/Conocimiento_libre">Conocimiento Libre</a></li>
+			<li><a href="https://wikileaks.org/">Wikileaks</a></li>
+			<img src="../imagenes/richi.jpeg">
+		</div>
+<head>
+	<title>Desecho de la imformacion</title>
+</head>
+	<div id="main-container">
+		
+		</div>
+	
+	<div id="texto">
+		
+		</div>
+		
+		<body>
+
+			<h1>Software Libre</h1>
+				<p>El término software libre refiere el conjunto de  programas informáticos que por elección  de su autor, puede ser copiado, estudiado, modificado, utilizado libremente con cualquier fin y redistribuido con o sin cambios o mejoras.</p>
+				<p>Su definición está asociada al nacimiento del movimiento de software libre, por Richard Stallman y la consecuente fundación de la Free Software Foundation, que coloca la libertad del usuario informático como propósito ético fundamental.</p>
+				<p>Un programa informático es software libre si otorga a los usuarios todas estas libertades de manera adecuada, por lo tanto software free no es lo mismo que software libre.</p>
+				<p>Tampoco debe confundirse software libre con «software de dominio público». Este último es aquel que no requiere de licencia, pues sus derechos de explotación son para toda la humanidad, porque pertenece a todos por igual.</p>
+				<p> El software no era considerado un producto sino un añadido que los vendedores de las grandes computadoras, aportaban a sus clientes para que éstos pudieran usarlas. En dicha cultura, era común que programadores y desarrolladores de software compartieran libremente sus programas unos con otros.</p>
+
+		</body>
+	</main>
+
+<footer><p>IES POLÍGONO SUR</p></footer>
+</body>
+</html>
